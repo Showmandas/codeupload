@@ -12,6 +12,7 @@
 </head>
 <body>
 <header>
+  <h1>Display</h1>
 <nav class="navbar navbar-expand-md bg-dark navbar-dark">
   <!-- Brand -->
   <a class="navbar-brand" href="#"><img src="img/images.jpeg" class="img-fluid rounded-circle img-thumbnail image"></a>
